@@ -1,4 +1,4 @@
-package org.dagraz.easy;
+package org.dagraz.Hackerrank.easy;
 
 public class SmallBills {
     public static int MakeChange(int amount) {

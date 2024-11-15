@@ -1,4 +1,4 @@
-package org.dagraz.medium;
+package org.dagraz.Hackerrank.medium;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.dagraz.introduction;
+package org.dagraz.Hackerrank.introduction;
 
 import java.util.*;
 

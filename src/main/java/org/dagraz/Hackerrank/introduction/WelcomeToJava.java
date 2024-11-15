@@ -1,4 +1,4 @@
-package org.dagraz.introduction;
+package org.dagraz.Hackerrank.introduction;
 
 public class WelcomeToJava {
     public static void main(String[] args) {

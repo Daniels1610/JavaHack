@@ -1,4 +1,4 @@
-package org.dagraz.hard;
+package org.dagraz.Hackerrank.hard;
 
 import org.javatuples.Pair;
 import java.util.Arrays;
