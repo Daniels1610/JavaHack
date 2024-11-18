@@ -1,4 +1,4 @@
-package org.dagraz.LeetCode;
+package org.dagraz.LeetCode.Medium.M53MergedIntervals;
 
 import java.util.*;
 

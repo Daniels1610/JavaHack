@@ -1,4 +1,4 @@
-package org.dagraz.LeetCode;
+package org.dagraz.LeetCode.Medium.M53MergedIntervals;
 
 /* Naive Implementation of Merged Intervals Problem. No AC */
 

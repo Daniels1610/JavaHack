@@ -1,4 +1,4 @@
-package org.dagraz.LeetCode;
+package org.dagraz.LeetCode.Medium.M53MergedIntervals;
 
 // Editorial solution for Leetcode #56 Merge Intervals.
 // Time Complexity O(nlogn)
